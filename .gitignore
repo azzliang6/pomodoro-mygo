@@ -1,0 +1,10 @@
+# build output
+/build/
+/dist/
+/.mygo/
+mygo_windows_*.syso
+*.exe
+*.zip
+*.test
+# local tools / agents
+/.agents/
